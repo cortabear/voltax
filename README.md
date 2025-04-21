@@ -1,2 +1,2 @@
-# voltax
+# VOLTAX
 Desktop Application
